@@ -2,7 +2,7 @@
 ### How to use it
 ### 1. Install the package with npm
 ```
-npm install glorry-first-package
+npm install glorry_info
 ```
 #### Use it in your code
 ```
