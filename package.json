@@ -1,6 +1,6 @@
 {
   "name": "glorry_info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "returns glorry's information",
   "main": "index.js",
   "scripts": {
